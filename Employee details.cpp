@@ -35,15 +35,6 @@ for(i=0;i<n;i++)
 e[i].DA=0.52*e[i].emp_basic;
 e[i].IT=0.3*e[i].emp_basic;
 e[i].net_salary=e[i].emp_basic+e[i].DA-e[i].IT;
-
-BVRIT HYDERABAD College of Engineering for women
-
-2
-
-Department of Information Technology
-
-Roll No. : Date:
-
 cout<<"details of "<<e[i].name<<endl;
 cout<<endl;
 cout<<"employee number "<<e[i].emp_no<<endl;
